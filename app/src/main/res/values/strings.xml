@@ -15,4 +15,5 @@
     <string name="idiomaA">Español</string>
     <string name="idiomaB">Inglés</string>
     <string name="botonAceptar">Aceptar</string>
+    <string name="title_activity_introducir_pelicula">IntroducirPelicula</string>
 </resources>
