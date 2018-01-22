@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">MyVideoStudium</string>
     <string name="action_settings">Settings</string>
+    <string name="labelTitulo">Título: </string>
+    <string name="labelAnyo">Año: </string>
+    <string name="labelNota">Nota: </string>
+    <string name="labelEstado">Estado: </string>
+    <string name="radioA">Visto</string>
+    <string name="radioB">No visto</string>
+    <string name="radioC">Pendiente</string>
+    <string name="labelTema">Cambiar tema</string>
+    <string name="temaA">Tema oscuro</string>
+    <string name="temaB">Tema claro</string>
+    <string name="labelIdioma">Cambiar idioma</string>
+    <string name="idiomaA">Español</string>
+    <string name="idiomaB">Inglés</string>
+    <string name="botonAceptar">Aceptar</string>
 </resources>
