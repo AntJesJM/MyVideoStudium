@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyVideoStudium.iml" filepath="$PROJECT_DIR$/.idea/MyVideoStudium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyVideoStudium.iml" filepath="$PROJECT_DIR$/MyVideoStudium.iml" />
+      <module fileurl="file://C:\Users\JSureda\AndroidStudioProjects\MyVideoStudium\.idea\MyVideoStudium.iml" filepath="C:\Users\JSureda\AndroidStudioProjects\MyVideoStudium\.idea\MyVideoStudium.iml" />
       <module fileurl="file://C:\Users\xemy0\AndroidStudioProjects\MyVideoStudium\MyVideoStudium.iml" filepath="C:\Users\xemy0\AndroidStudioProjects\MyVideoStudium\MyVideoStudium.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
