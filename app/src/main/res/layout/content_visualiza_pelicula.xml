@@ -8,4 +8,56 @@
     tools:context="com.example.jsureda.myvideostudium.VisualizaPelicula"
     tools:showIn="@layout/activity_visualiza_pelicula">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/lblTitulo3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/labelTitulo"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblAnyo3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/labelAnyo"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblEstado3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/labelEstado"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblNota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/labelNota"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            style="@style/Widget.AppCompat.RatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:isIndicator="false"
+            android:numStars="5"
+            android:rating="1.0"
+            android:stepSize="0.5" />
+
+    </LinearLayout>
 </android.support.constraint.ConstraintLayout>
