@@ -5,6 +5,12 @@
     <string name="labelAnyo">Año: </string>
     <string name="labelNota">Nota: </string>
     <string name="labelEstado">Estado: </string>
+    <string-array name="spinnerEstado">
+        <item>Seleccione un estado</item>
+        <item>Visto</item>
+        <item>No visto</item>
+        <item>Pendiente</item>
+    </string-array>
     <string name="radioA">Visto</string>
     <string name="radioB">No visto</string>
     <string name="radioC">Pendiente</string>
