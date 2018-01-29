@@ -16,4 +16,5 @@
     <string name="idiomaB">Inglés</string>
     <string name="botonAceptar">Aceptar</string>
     <string name="title_activity_introducir_pelicula">IntroducirPelicula</string>
+    <string name="title_activity_visualiza_pelicula">VisualizaPelicula</string>
 </resources>
